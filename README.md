@@ -17,8 +17,6 @@ Technologies Used:
 -Python 3
 -Natural Language Toolkit (NLTK)
 -scikit-learn
--NumPy
--pandas
 How to Run:
 pip install -r requirements.txt
 python main.py
