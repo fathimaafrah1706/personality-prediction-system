@@ -1,2 +1,2 @@
 # personality-prediction-system
-Analyze CVs and predict personality characteristics with machine learning.
+AI system to predict personality traits from resumes using Python, NLP, and machine learning.
