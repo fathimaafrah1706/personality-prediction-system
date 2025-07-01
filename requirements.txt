@@ -1,4 +1,2 @@
 nltk
 scikit-learn
-pandas
-numpy
