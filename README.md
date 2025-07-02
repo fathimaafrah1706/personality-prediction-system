@@ -34,10 +34,10 @@ python main.py
 Example Output:
 <img width="766" alt="Screenshot of the prediction result" src="https://github.com/user-attachments/assets/2ffb9f49-0905-446b-90e5-85038305a6e4" />
 
-📚 Technologies Used
+📚 Technologies Used:
 NLTK
 scikit-learn
 
-📜 License
+📜 License:
 This project is for educational and demonstration purposes only.
 
