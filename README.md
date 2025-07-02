@@ -4,48 +4,38 @@ This project is an AI-powered system that predicts an individual's personality t
 ✨ Features
 Predicts Big Five Personality Traits:
 
-Extroversion
+*Extroversion
 
-Conscientiousness
+*Conscientiousness
 
-Openness
+*Openness
 
-Agreeableness
+*Agreeableness
 
-Neuroticism
+*Neuroticism
 
-Resume text preprocessing and cleaning
+*Resume text preprocessing and cleaning
 
-TF-IDF feature extraction
+*TF-IDF feature extraction
 
 🛠️ Installation
+
 Navigate to the project directory:
-
-bash
-Copy
-Edit
 cd personality-prediction-system
+
 Install the dependencies:
-
-nginx
-Copy
-Edit
 pip install -r requirements.txt
-🚀 Usage
-Run the script:
 
-css
-Copy
-Edit
+🚀 Usage
+
+Run the script:
 python main.py
-The script will prompt you to enter resume text and will display the predicted personality trait.
 
 Example Output:
-
 <img width="766" alt="Screenshot of the prediction result" src="https://github.com/user-attachments/assets/2ffb9f49-0905-446b-90e5-85038305a6e4" />
+
 📚 Technologies Used
 NLTK
-
 scikit-learn
 
 📜 License
