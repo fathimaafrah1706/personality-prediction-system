@@ -1,7 +1,7 @@
-🧠 Personality Prediction System
+🧠 Personality Prediction System:
 This project is an AI-powered system that predicts an individual's personality traits by analyzing their resume (CV) text. It uses Natural Language Processing (NLP) techniques and machine learning models to classify personality characteristics.
 
-✨ Features
+✨ Features:
 Predicts Big Five Personality Traits:
 
 *Extroversion
@@ -18,7 +18,7 @@ Predicts Big Five Personality Traits:
 
 *TF-IDF feature extraction
 
-🛠️ Installation
+🛠️ Installation:
 
 Navigate to the project directory:
 cd personality-prediction-system
@@ -26,7 +26,7 @@ cd personality-prediction-system
 Install the dependencies:
 pip install -r requirements.txt
 
-🚀 Usage
+🚀 Usage:
 
 Run the script:
 python main.py
