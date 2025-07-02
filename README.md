@@ -1,27 +1,39 @@
-Personality Prediction System via CV Analysis:
-This project is an AI-driven system that predicts an individual's personality traits by analyzing their Curriculum Vitae (CV) or resume text. It uses Natural Language Processing (NLP) techniques and machine learning models to classify personality characteristics.
-Project Overview:
-This system extracts relevant information from resumes—like educational background, experience, skills, and achievements—and applies sentiment analysis and linguistic pattern recognition to predict traits such as:
--Extroversion
--Conscientiousness
--Openness
--Agreeableness
--Neuroticism
-Features:
--Resume text preprocessing and cleaning  
--TF-IDF feature extraction  
--Simple personality prediction model  
--Easily extensible with more advanced models  
--Clear output of predicted personality traits  
-Technologies Used:
--Python 3
--Natural Language Toolkit (NLTK)
--scikit-learn
-How to Run:
-pip install -r requirements.txt
-python main.py
-Example Output:
-Predicted Personality Traits:
-- Extroversion: High
-- Agreeableness: Medium
-- Neuroticism: Low
+# Personality Prediction System
+
+This project is an AI-powered system that predicts an individual's personality traits by analyzing their resume (CV) text. It uses Natural Language Processing (NLP) techniques and machine learning models to classify personality characteristics.
+
+## Features
+- Predicts Big Five Personality Traits:
+  - Extroversion
+  - Conscientiousness
+  - Openness
+  - Agreeableness
+  - Neuroticism
+- Resume text preprocessing and cleaning
+- TF-IDF feature extraction
+
+## Installation
+
+Clone this repository:https://github.com/fathimaafrah1706/personality-prediction-system.git
+
+Navigate to the project directory:
+
+Install the dependencies:pip install -r requirements.txt
+
+## Usage
+
+Run the script:python main.py
+<img width="766" alt="Screenshot 2025-07-02 200803" src="https://github.com/user-attachments/assets/2ffb9f49-0905-446b-90e5-85038305a6e4" />
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- NLTK
+- scikit-learn
+
+
+
+
