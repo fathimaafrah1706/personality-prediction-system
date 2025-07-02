@@ -25,12 +25,6 @@ Install the dependencies:pip install -r requirements.txt
 Run the script:python main.py
 <img width="766" alt="Screenshot 2025-07-02 200803" src="https://github.com/user-attachments/assets/2ffb9f49-0905-446b-90e5-85038305a6e4" />
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
 - NLTK
 - scikit-learn
 
