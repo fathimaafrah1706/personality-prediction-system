@@ -1,43 +1,45 @@
-🧠 Personality Prediction System:
-This project is an AI-powered system that predicts an individual's personality traits by analyzing their resume (CV) text. It uses Natural Language Processing (NLP) techniques and machine learning models to classify personality characteristics.
+🧠 Personality Prediction System
+This project is an AI-powered system that predicts an individual's personality traits by analyzing resume (CV) text. It uses Natural Language Processing (NLP) and machine learning to classify the Big Five personality traits.
 
-✨ Features:
-Predicts Big Five Personality Traits:
+ ✨ Features
 
-*Extroversion
+✅ Predicts one of the Big Five personality traits:
+- Extroversion
+- Conscientiousness
+- Openness
+- Agreeableness
+- Neuroticism
 
-*Conscientiousness
+✅ Text preprocessing and cleaning
 
-*Openness
+✅ TF-IDF vectorization
 
-*Agreeableness
+✅ Logistic Regression classifier
 
-*Neuroticism
+✅ Saves predictions to an SQLite database (`predictions.db`)
 
-*Resume text preprocessing and cleaning
+✅ Separate script to view all stored predictions
 
-*TF-IDF feature extraction
+ ⚙️ Installation
 
-🛠️ Installation:
-
-Navigate to the project directory:
+1️⃣ Clone this repository:
+```bash
+git clone https://github.com/your-username/personality-prediction-system.git
+```
+2️⃣ Navigate into the project directory:
 cd personality-prediction-system
 
-Install the dependencies:
+3️⃣ Install required dependencies:
 pip install -r requirements.txt
 
-🚀 Usage:
+🚀 Usage
+Run the prediction script:python main.py
 
-Run the script:
-python main.py
-
-Example Output:
-<img width="766" alt="Screenshot of the prediction result" src="https://github.com/user-attachments/assets/2ffb9f49-0905-446b-90e5-85038305a6e4" />
-
-📚 Technologies Used:
-NLTK,
+🛠️ Technologies Used
+Python
+NLTK
 scikit-learn
+SQLite
 
-📜 License:
+📜 License
 This project is for educational and demonstration purposes only.
-
