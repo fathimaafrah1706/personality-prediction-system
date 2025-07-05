@@ -21,7 +21,6 @@ This project is an AI-powered system that predicts an individual's personality t
 ✅ Separate script to view all stored predictions
 
  ⚙️ Installation
-
 1️⃣ Clone this repository:
 ```bash
 git clone https://github.com/fathimaafrah1706/personality-prediction-system.git
